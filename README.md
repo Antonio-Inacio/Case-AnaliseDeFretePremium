@@ -112,19 +112,8 @@ Com o painel final, tornou-se possível:
 ---
 
 # DataViz
-<iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/8SMHUAIs_rg" 
-    title="YouTube video player"
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-</iframe>
-
+[![Assista no YouTube](https://img.youtube.com/vi/8SMHUAIs_rg/0.jpg)](https://youtu.be/8SMHUAIs_rg)
 
 
 **Antonio Marcos**  
-
-
 ---
